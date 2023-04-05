@@ -1,0 +1,7 @@
+*O codigo foi testado, voltou como esperado e resolve publicar uma nova feature no
+programa e algo estranho acontece. Observa que o sistema está em loop, batendo na API
+de integração do cliente.*
+
+Os [SPIES] observam suas funções validando a quantidade de vezes que foram chamadas
+com quais params e quais resultados retornaram em cada tempo.
+

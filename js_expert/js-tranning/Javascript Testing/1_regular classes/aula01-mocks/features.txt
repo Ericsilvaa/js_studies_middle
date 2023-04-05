@@ -1,0 +1,22 @@
+the file should have id,name,profession and age fields
+the file should not be empty
+the file should not be longer than 4 lines including headers
+
+*--------------------
+
+
+
+
+Ao inves de voce replicar os testes, voce cria objetos que partem do principio
+que o [teste A] esta funcionando, guarda os resultados dele em um objeto fixo,
+para voce consegui testar o caminho do [teste B] para o [teste C].
+
+[Ambiente Real]
+ -> Imagine que voce precisa criar uma função responsavel por converter um conteudo
+ de um arquivo csv em json.
+
+ *Regra de negocio comum é validar o conteudo
+ - verificando se ta vazio
+ - formato correto
+ - propriedades desejadas
+

@@ -1,0 +1,15 @@
+*BD or API externa que cobra por uso, se toda vez que se tiver que criar
+um codigo novo, uma nova funcionalidade, tiver que bater nessa API externa
+a conta poderá vir um pouco alta.*
+
+Os [STUBS] são usados para substituir algum comportamento do sistema por 
+objetos staticos, onde voce tb cria diferentes [MOCKS] pra cada cenario especiico.
+
+*Precisamos fazer uma requisicao no servico de CEP e o sistema possui varias regras 
+que dependem dos resultados da API do CEP.
+Então, API do CEP saí do AR e todos os sistemas param, toda e qualquer aprovação nao
+será aprovada, pois os testes não estão passando.*
+
+Usando [STUBS] voce substitui o comportamento da função e define algo como 
+"quando essa função tentar acessar a API de CEP, ao inves de voce ir para internet,
+com esses parametros, ela vai olhar pro meu objeto do MOCK daquele cenario em contexto."

@@ -1,0 +1,9 @@
+Feitos para testar o comportamento da sua aplicação do ponto de vista do usuario.
+
+*Quer fazer login? Entao, voce cria uma função que bate na API, com login e senha,
+e retorna o TOLKEN pro cliente.
+*Quer visualizar um pedido? Entao, voce cria uma função que bate na API com TOLKEN
+do cliente e o ID do pedido e o sistema retorna.
+
+Se trabalhar com software que nao tem qualquer tipo de pratica de teste.
+Melhor for de garantir que o que esta funcionando continue funcionando.
