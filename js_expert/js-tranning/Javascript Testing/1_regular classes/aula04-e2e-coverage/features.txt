@@ -6,4 +6,4 @@ e retorna o TOLKEN pro cliente.
 do cliente e o ID do pedido e o sistema retorna.
 
 Se trabalhar com software que nao tem qualquer tipo de pratica de teste.
-Melhor for de garantir que o que esta funcionando continue funcionando.
+Melhor for de garantir que o que esta funcionando continue funcionando..s
