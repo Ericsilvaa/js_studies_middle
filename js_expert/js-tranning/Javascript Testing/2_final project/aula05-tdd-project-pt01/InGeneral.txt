@@ -1,2 +1,3 @@
 Para instalar a versão 5.1.0 rode: npm install faker@5.1.0
-  1. Uma lib para criar dados falsos sob demanda, pra gerar dados randomicos.
+  1. Uma lib para criar dados falsos sob demanda, pra gerar dados randomicos. ..
+  
